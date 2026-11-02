@@ -1,0 +1,8 @@
+{
+  "name": "BookVerse",
+  "description": "BookVerse — discover your next great read with book browsing, categories, wishlist, and cart.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
